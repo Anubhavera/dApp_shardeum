@@ -1,4 +1,4 @@
-<h1 align="center"> GithubCrpyt </h1> <br>
+<h1 align="center"> dApp </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/86847380/219954699-d10f9120-222a-4d21-94a8-b01f8282fd29.png" width="450">
@@ -54,9 +54,6 @@ A few of the things you can do with GithubCrypt:
     8. Once the user is paid the issue will be marked as completed and the user will be able to see the issue in the completed issues section of his profile.
 
 
-# Contributors
-
-- [Kush Bhargav Sah](https://github.com/kush134)
 
 # Build Process
 
